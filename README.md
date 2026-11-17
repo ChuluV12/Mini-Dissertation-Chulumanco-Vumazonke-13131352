@@ -85,6 +85,4 @@ A smoke run with 300 test records completed without errors. It only tests the co
 
 ## Licence and citation
 
-Licence: [to be decided by the author].
-
-Citation: Vumazonke, C. (2026) *A comparative analysis of batch and stream processing architectures for real-time financial fraud detection*. [Eduvos BSc Honours dissertation; add the final title and year.]
+Citation: Vumazonke, C. (2026) *A comparative analysis of batch and stream processing architectures for real-time financial fraud detection*. [Eduvos BSc Honours dissertation; Comparing Batch and Stream Processing for Financial Fraud Detection.]
