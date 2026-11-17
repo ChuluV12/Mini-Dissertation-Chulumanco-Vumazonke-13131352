@@ -1,0 +1,7 @@
+pyspark
+faker
+pandas
+numpy
+scikit-learn
+psutil
+matplotlib
